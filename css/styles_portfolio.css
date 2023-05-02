@@ -33,6 +33,17 @@ body {
   color: #2e2f42;
 }
 
+.main-button :hover,
+.main-button :focus {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+
+.list-menu :hover,
+.list-menu :focus {
+  color: #404bbf;
+}
+
 .main-button {
   font-family: Roboto, sans-serif;
   font-weight: 500;
@@ -44,12 +55,19 @@ body {
   color: #4d5ae5;
   background-color: #f4f4fd;
 }
+
+.info :hover,
+.info :focus {
+  color: #404bbf;
+}
+
 .info {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: #404bbf;
   text-decoration: none;
 }
+
 .title-htwo {
   font-weight: 500;
   font-size: 20px;
