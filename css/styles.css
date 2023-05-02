@@ -45,7 +45,7 @@
   cursor: pointer;
 }
 
-.button_hero :hover {
+.button_hero:hover {
   background-color: #404bbf;
 }
 
