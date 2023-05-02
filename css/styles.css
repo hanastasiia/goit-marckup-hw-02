@@ -34,7 +34,7 @@
   text-decoration: none;
 }
 
-.button_hero {
+.button-hero {
   font-family: Roboto, sans-serif;
   font-weight: 500;
   background-color: #4d5ae5;
@@ -45,7 +45,8 @@
   cursor: pointer;
 }
 
-.button_hero:hover {
+.button-hero:hover,
+.button-hero:hover {
   background-color: #404bbf;
 }
 
