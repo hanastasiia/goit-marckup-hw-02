@@ -24,7 +24,10 @@ body {
 .footer-span-logo {
   color: #f4f4fd;
 }
-
+.list-menu :hover,
+.list-menu :focus {
+  color: #404bbf;
+}
 .list-menu {
   font-weight: 500;
   font-size: 16px;
