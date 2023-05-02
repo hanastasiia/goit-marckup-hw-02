@@ -6,10 +6,7 @@
 .hero-section {
   background-color: #2e2f42;
 }
-.button-hero:hover,
-.button-hero:focus {
-  color: var(#404bbf);
-}
+
 .title-hthree {
   color: #2e2f42;
 }
