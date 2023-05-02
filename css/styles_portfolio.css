@@ -17,10 +17,24 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.span-logo {
+.header-span-logo {
+  color: #2e2f42;
+}
+
+.footer-span-logo {
   color: #f4f4fd;
 }
+
+.list-menu {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
 .main-button {
+  font-family: Roboto, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
