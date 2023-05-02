@@ -34,6 +34,11 @@
   text-decoration: none;
 }
 
+.info:hover,
+.info:focus {
+  color: #404bbf;
+}
+
 .button-hero {
   font-family: Roboto, sans-serif;
   font-weight: 500;
