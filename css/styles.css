@@ -8,5 +8,5 @@
 }
 .button-hero:hover,
 .button-hero:focus {
-  color: #404bbf;
+  color: var(#404bbf);
 }
