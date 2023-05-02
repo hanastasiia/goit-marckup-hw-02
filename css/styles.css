@@ -45,6 +45,10 @@
   cursor: pointer;
 }
 
+.button-hero :hover {
+  background-color: #404bbf;
+}
+
 .list-menu {
   font-weight: 500;
   font-size: 16px;
