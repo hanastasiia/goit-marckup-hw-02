@@ -58,6 +58,11 @@
   color: #2e2f42;
 }
 
+.list-menu:hover,
+.list-menu:focus {
+  color: #404bbf;
+}
+
 .hero-section {
   background-color: #2e2f42;
 }
