@@ -24,8 +24,8 @@ body {
 .footer-span-logo {
   color: #f4f4fd;
 }
-.list-menu :hover,
-.list-menu :focus {
+a :hover,
+a :focus {
   color: #404bbf;
 }
 .list-menu {
