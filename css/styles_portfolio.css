@@ -40,10 +40,6 @@ button :hover {
   color: #ffffff;
   background-color: #404bbf;
 }
-button :focus {
-  color: #ffffff;
-  background-color: #404bbf;
-}
 
 .list-menu :hover,
 .list-menu :focus {
