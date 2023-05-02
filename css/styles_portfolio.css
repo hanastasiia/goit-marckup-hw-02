@@ -41,8 +41,8 @@ button :hover {
   background-color: #404bbf;
 }
 
-.list-menu :hover,
-.list-menu :focus {
+.list-menu:hover,
+.list-menu:focus {
   color: #404bbf;
 }
 
@@ -58,16 +58,16 @@ button :hover {
   background-color: #f4f4fd;
 }
 
-.info :hover,
-.info :focus {
+.info:hover,
+.info:focus {
   color: #404bbf;
 }
 
 .info {
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #404bbf;
-  text-decoration: none;
+  color: #434455;
 }
 
 .title-htwo {
