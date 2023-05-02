@@ -4,6 +4,9 @@ body {
 .link {
   text-decoration: none;
 }
+.span-logo {
+  color: #2e2f42;
+}
 .main-button {
   font-weight: 500;
   font-size: 16px;
