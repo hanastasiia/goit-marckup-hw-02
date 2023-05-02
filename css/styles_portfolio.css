@@ -17,6 +17,8 @@ body {
   letter-spacing: 0.04em;
   cursor: pointer;
   list-style: none;
+  color: #4d5ae5;
+  background-color: #f4f4fd;
 }
 
 .title-htwo {
