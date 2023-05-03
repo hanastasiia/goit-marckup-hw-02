@@ -1,7 +1,6 @@
 :root {
   --color-iris: #4d5ae5;
   --color-ocean: #404bbf;
-
   --color-green: #31d0aa;
   --color-slate: #434455;
   --color-light-slate: #8e8f99;
@@ -12,12 +11,6 @@
   --color-dairy: #fcfcfc;
 }
 
-.body {
-  font-family: Roboto, sans-serif;
-  color: #434455;
-  background-color: #ffffff;
-}
-
 .link {
   text-decoration: none;
 }
@@ -26,7 +19,13 @@
   list-style: none;
 }
 
-.logo-item {
+.body {
+  font-family: Roboto, sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+.logo {
   font-family: Raleway, sans-serif;
   color: #4d5ae5;
   font-weight: 800;
