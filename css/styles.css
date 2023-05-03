@@ -35,10 +35,12 @@
   text-transform: uppercase;
 }
 
-.span-logo {
+.header-span-logo {
+  color: #2e2f42;
+}
+.footer-span-logo {
   color: #f4f4fd;
 }
-
 .info {
   font-size: 16px;
   line-height: 1.5;
