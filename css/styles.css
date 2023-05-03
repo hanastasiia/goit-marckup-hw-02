@@ -44,7 +44,11 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  text-decoration: none;
+}
+
+a :hover,
+a :focus {
+  color: #404bbf;
 }
 
 .info:hover,
@@ -52,19 +56,32 @@
   color: #404bbf;
 }
 
-.button-hero {
+.button {
   font-family: Roboto, sans-serif;
   font-weight: 500;
-  background-color: #4d5ae5;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  background-color: #4d5ae5;
   color: #ffffff;
   cursor: pointer;
 }
 
-.button-hero:hover,
-.button-hero:focus {
+.main-button {
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  list-style: none;
+  color: #4d5ae5;
+  background-color: #f4f4fd;
+}
+
+button:hover,
+button:focus {
+  color: #ffffff;
   background-color: #404bbf;
 }
 
@@ -120,4 +137,23 @@
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+
+.title-htwo {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-size: 16px;
+  color: #434455;
+}
+
+.footer {
+  background-color: #2e2f42;
 }
